@@ -66,14 +66,14 @@ const FICHES = [
   },
 
   // ===== AJOUTEZ VOS FICHES CI-DESSOUS =====
-},
 
-{
- titre: "Travailler régulièrement chez soi",
- catégorie: "Études",
- texte: "Sans le travail régulier, l'étudiant perd le fil conducteur et n'assimilera rien le prochain cours.",
- auteur:"Youssef Charfeddine"
-},
+
+  {
+ 	titre: "Travailler régulièrement chez soi",
+ 	categorie: "Études",
+ 	texte: "Sans le travail régulier, l'étudiant perd le fil conducteur et n'assimilera rien le prochain cours.",
+ 	auteur:"Youssef Charfeddine"
+  },
 
   // ===== FIN DE VOS FICHES =====
 
